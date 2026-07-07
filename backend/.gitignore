@@ -1,0 +1,12 @@
+.env*
+node_modules/
+dist/
+build/
+coverage/
+logs/
+*.log
+uploads/
+backups/
+tmp/
+.vscode/
+.idea/
